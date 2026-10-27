@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "filename": "zhayizha-0.2.0-macos.zip",
+  "bytes": 68389,
+  "sha256": "b9289bdf7d6b91143312dd91c8ba99a5b429021762d529a1ee475fb3feb3673b",
+  "kind": "macos-source-preview",
+  "node": "22.13+",
+  "chrome": true,
+  "appLanguage": "zh-CN"
+}
